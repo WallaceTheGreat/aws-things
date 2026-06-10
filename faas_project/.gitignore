@@ -1,0 +1,6 @@
+lambda.zip
+.terraform/
+.terraform.lock.hcl
+*.tfstate
+*.tfstate.*
+response.json
